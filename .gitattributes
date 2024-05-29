@@ -4,3 +4,4 @@
 # Ensure JavaScript files are counted
 *.js linguist-detectable
 *.jsx linguist-detectable
+*.sol linguist-detectable
